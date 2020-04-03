@@ -1,0 +1,121 @@
+<!DOCUTYPE html>
+  <html>
+    <head>
+      <meta charset="utf-8">
+      <title>La Liga 2020</title>
+    </head>
+    <body>
+      <teble>
+        <th>
+          <td>Puesto</td>
+          <td>Equipo</td>
+          <td>Puntos</td>
+          <td>P/ Ganados</td>
+          <td>P/ Perdidos</td>
+          <td>P/ Empatados</td>
+          <td>Goles a favor</td>
+          <td>Goles en contra</td>
+        </th>
+        <tr>
+          <td>1ro.</td>
+          <td>Barcelona</td>
+          <td>58 pts.</td>
+          <td>18</td>
+          <td>5</td>
+          <td>4</td>
+          <td>63</td>
+          <td>31</td>
+        </tr>
+        <tr>
+          <td>2 do.</td>
+          <td>R. Madrid</td>
+          <td>56 pts.</td>
+          <td>16</td>
+          <td>3</td>
+          <td>8</td>
+          <td>49</td>
+          <td>19</td>
+        </tr>
+        <tr>
+          <td>3 ro.</td>
+          <td>Sevilla</td>
+          <td>49 pts.</td>
+          <td>13</td>
+          <td>6</td>
+          <td>8</td>
+          <td>39</td>
+          <td>29</td>
+        </tr>
+        <tr>
+          <td>4 to.</td>
+          <td>R. Sociedad</td>
+          <td>46 pts.</td>
+          <td>14</td>
+          <td>9</td>
+          <td>4</td>
+          <td>45</td>
+          <td>33</td>
+        </tr>
+        <tr>
+          <td>5 to.</td>
+          <td>Getafe</td>
+          <td>46 pts.</td>
+          <td>13</td>
+          <td>7</td>
+          <td>7</td>
+          <td>37</td>
+          <td>25</td>
+        </tr>
+        <tr>
+          <td>6 to.</td>
+          <td>Atl. Madrid</td>
+          <td>45 pts.</td>
+          <td>11</td>
+          <td>4</td>
+          <td>12</td>
+          <td>31</td>
+          <td>21</td>
+        </tr>
+        <tr>
+          <td>7 mo.</td>
+          <td>Valencia</td>
+          <td>42 pts.</td>
+          <td>11</td>
+          <td>7</td>
+          <td>9</td>
+          <td>38</td>
+          <td>39</td>
+        </tr>
+        <tr>
+          <td>8 vo.</td>
+          <td>Villareal</td>
+          <td>38 pts.</td>
+          <td>11</td>
+          <td>11</td>
+          <td>5</td>
+          <td>44</td>
+          <td>38</td>
+        </tr>
+        <tr>
+          <td>9 no.</td>
+          <td>Granada</td>
+          <td>38 pts.</td>
+          <td>11</td>
+          <td>11</td>
+          <td>5</td>
+          <td>33</td>
+          <td>32</td>
+        </tr>
+        <tr>
+          <td>10 mo.</td>
+          <td>Athletic Club</td>
+          <td>37 pts.</td>
+          <td>9</td>
+          <td>8</td>
+          <td>10</td>
+          <td>29</td>
+          <td>23</td>
+        </tr>
+      </table>
+    </body>
+  </html>
